@@ -20,3 +20,25 @@
 * Seção 13: API REST - JS, Node, Express e SQL (MySQL ou Maria DB)
 * Seção 14: React com Componentes de classe (Básico)
 * Seção 15: React - Redux - Redux saga - React Hooks e Componentes Funcionais - Avançado
+* Seção 16: React Router DOM V6
+* Seção 17: Expressões regulares em Javascript - Regex
+
+### Typescript
+
+* Seção 18: Instalação
+* Seção 19: Tipos básicos
+* Seção 20: Classes e Interfaces - POO
+* Seção 21: Tipos avançados
+* Seção 22: Generics
+* Seção 23: Decorators
+* Seção 24: Namespaces e modules
+* Seção 25: Princípios SOLID
+* Seção 26: Testes com Jest
+* Seção 27: TS e React (Pomodoro App)
+* Seção 28: TS - Design Patterns - Padrões de Projeto GOF
+* Seção 29: NextJS e Strapi para criar API REST rapidamente
+* Seção 30: Deploy NextJS + Strapi no Ubuntu Server 20.04
+* Seção 31: Bases de dados relacionais - SQL - MySQL ou MariaDB
+* Seção 32: Knex.js - SQL Query Builder para Postgres, MySQL, MariaDB, SQLite3 e muito mais
+* Seção 33: HTML5 e CSS3 (Para iniciantes)
+* Seção 34: Landing Page com HTML4 e CSS3
