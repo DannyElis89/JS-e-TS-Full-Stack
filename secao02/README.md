@@ -8,13 +8,13 @@
 * [X] Aula 9: Repositório do curso no Github
 * [X] Aula 10: Me ajude a produzir conteúdo gratuito
 * [X] Aula 11: Comentários de código
-* [ ] Aula 12: Navegador vs Node (HTML + JavaScript)
-* [ ] Aula 13: Variáveis com let
-* [ ] Aula 14: Constantes com const
-* [ ] Aula 15: Correção
-* [ ] Aula 16: Exercícios - Const e Let
-* [ ] Aula 17: Código do exercício solucionado
-* [ ] Aula 18: Let vs Var - Primeira diferença
+* [X] Aula 12: Navegador vs Node (HTML + JavaScript)
+* [X] Aula 13: Variáveis com let
+* [X] Aula 14: Constantes com const
+* [X] Aula 15: Correção
+* [X] Aula 16: Exercícios - Const e Let
+* [X] Aula 17: Código do exercício solucionado
+* [X] Aula 18: Let vs Var - Primeira diferença
 * [ ] Aula 19: Tipos de dados primitivos
 * [ ] Aula 20: Operadores aritméticos, de atribuição e incremento
 * [ ] Aula 21: alert, confirm e prompt (Navegador)
