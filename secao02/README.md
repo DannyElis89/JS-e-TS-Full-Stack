@@ -15,10 +15,10 @@
 * [X] Aula 16: Exercícios - Const e Let
 * [X] Aula 17: Código do exercício solucionado
 * [X] Aula 18: Let vs Var - Primeira diferença
-* [ ] Aula 19: Tipos de dados primitivos
-* [ ] Aula 20: Operadores aritméticos, de atribuição e incremento
-* [ ] Aula 21: alert, confirm e prompt (Navegador)
-* [ ] Aula 22: Exercícios - Solução
+* [X] Aula 19: Tipos de dados primitivos
+* [X] Aula 20: Operadores aritméticos, de atribuição e incremento
+* [X] Aula 21: alert, confirm e prompt (Navegador)
+* [X] Aula 22: Exercícios - Solução
 * [ ] Aula 23: Exercício com variáveis
 * [ ] Aula 24: Mais sobre strings
 * [ ] Aula 25: Exercícios com strings
