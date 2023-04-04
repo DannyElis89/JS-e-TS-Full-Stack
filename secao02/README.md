@@ -23,8 +23,8 @@
 * [X] Aula 24: Mais sobre strings
 * [X] Aula 25: Exercícios com strings
 * [X] Aula 26: Mais sobre numbers
-* [ ] Aula 27: Objeto Math
-* [ ] Aula 28: Exercícios com numbers e Math
+* [X] Aula 27: Objeto Math
+* [X] Aula 28: Exercícios com numbers e Math
 * [ ] Aula 29: Arrays (Básico)
 * [ ] Aula 30: Const com valores mutáveis
 * [ ] Aula 31: Funções (Básico)
