@@ -19,10 +19,10 @@
 * [X] Aula 20: Operadores aritméticos, de atribuição e incremento
 * [X] Aula 21: alert, confirm e prompt (Navegador)
 * [X] Aula 22: Exercícios - Solução
-* [ ] Aula 23: Exercício com variáveis
-* [ ] Aula 24: Mais sobre strings
-* [ ] Aula 25: Exercícios com strings
-* [ ] Aula 26: Mais sobre numbers
+* [X] Aula 23: Exercício com variáveis
+* [X] Aula 24: Mais sobre strings
+* [X] Aula 25: Exercícios com strings
+* [X] Aula 26: Mais sobre numbers
 * [ ] Aula 27: Objeto Math
 * [ ] Aula 28: Exercícios com numbers e Math
 * [ ] Aula 29: Arrays (Básico)
