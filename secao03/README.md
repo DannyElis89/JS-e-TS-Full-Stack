@@ -3,9 +3,9 @@
 ## Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
 ### Seção 03: Javascript - Lógica de Programação
 
-* [ ] Aula 35: Sobre lógica
-* [ ] Aula 36: Extensões que utilizo no VSCode
-* [ ] Aula 37: Operadores de comparação
+* [X] Aula 35: Sobre lógica
+* [X] Aula 36: Extensões que utilizo no VSCode
+* [X] Aula 37: Operadores de comparação
 * [ ] Aula 38: Operadores Lógicos
 * [ ] Aula 39: Avaliação de Curto-Circuito (Short-Circuit)
 * [ ] Aula 40: if, else if e else (1)

@@ -6,7 +6,7 @@
 
 ### Javascript
 
-* [ ] Seção 02: JS Básico - Para iniciantes
+* [X] Seção 02: JS Básico - Para iniciantes
 * [ ] Seção 03: Lógica de programação
 * [ ] Seção 04: Funções (avançado)
 * [ ] Seção 05: Arrays (avançado)
