@@ -25,9 +25,9 @@
 * [X] Aula 26: Mais sobre numbers
 * [X] Aula 27: Objeto Math
 * [X] Aula 28: Exercícios com numbers e Math
-* [ ] Aula 29: Arrays (Básico)
-* [ ] Aula 30: Const com valores mutáveis
-* [ ] Aula 31: Funções (Básico)
-* [ ] Aula 32: Objetos (Básico)
-* [ ] Aula 33: Valores primitivos e valores por referência
-* [ ] Aula 34: Exercício para função, array e objetos
+* [X] Aula 29: Arrays (Básico)
+* [X] Aula 30: Const com valores mutáveis
+* [X] Aula 31: Funções (Básico)
+* [X] Aula 32: Objetos (Básico)
+* [X] Aula 33: Valores primitivos e valores por referência
+* [X] Aula 34: Exercício para função, array e objetos
