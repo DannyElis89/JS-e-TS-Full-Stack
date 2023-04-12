@@ -8,7 +8,7 @@
 * [X] Aula 37: Operadores de comparação
 * [X] Aula 38: Operadores Lógicos
 * [X] Aula 39: Avaliação de Curto-Circuito (Short-Circuit)
-* [ ] Aula 40: if, else if e else (1)
+* [X] Aula 40: if, else if e else (1)
 * [ ] Aula 41: if, else if e else (2)
 * [ ] Aula 42: Modelo HTML e CSS para exercícios posteriores
 * [ ] Aula 43: Nota sobre o próximo exercício
