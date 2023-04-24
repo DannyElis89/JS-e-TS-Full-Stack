@@ -9,10 +9,10 @@
 * [X] Aula 38: Operadores Lógicos
 * [X] Aula 39: Avaliação de Curto-Circuito (Short-Circuit)
 * [X] Aula 40: if, else if e else (1)
-* [ ] Aula 41: if, else if e else (2)
-* [ ] Aula 42: Modelo HTML e CSS para exercícios posteriores
-* [ ] Aula 43: Nota sobre o próximo exercício
-* [ ] Aula 44: Exercício (unindo tudo aprendido até aqui e mais)
+* [X] Aula 41: if, else if e else (2)
+* [X] Aula 42: Modelo HTML e CSS para exercícios posteriores
+* [X] Aula 43: Nota sobre o próximo exercício
+* [X] Aula 44: Exercício (unindo tudo aprendido até aqui e mais)
 * [ ] Aula 45: Operação ternária
 * [ ] Aula 46: Objeto Date
 * [ ] Aula 47: Switch/Case
