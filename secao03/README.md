@@ -15,7 +15,7 @@
 * [X] Aula 44: Exercício (unindo tudo aprendido até aqui e mais)
 * [X] Aula 45: Operação ternária
 * [X] Aula 46: Objeto Date
-* [ ] Aula 47: Switch/Case
+* [X] Aula 47: Switch/Case
 * [ ] Aula 48: Exercício com switch e date
 * [ ] Aula 49: Mais diferenças entre var e let/const
 * [ ] Aula 50: Atribuição via desestruturação (Arrays)
