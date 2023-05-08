@@ -13,8 +13,8 @@
 * [X] Aula 42: Modelo HTML e CSS para exercícios posteriores
 * [X] Aula 43: Nota sobre o próximo exercício
 * [X] Aula 44: Exercício (unindo tudo aprendido até aqui e mais)
-* [ ] Aula 45: Operação ternária
-* [ ] Aula 46: Objeto Date
+* [X] Aula 45: Operação ternária
+* [X] Aula 46: Objeto Date
 * [ ] Aula 47: Switch/Case
 * [ ] Aula 48: Exercício com switch e date
 * [ ] Aula 49: Mais diferenças entre var e let/const
